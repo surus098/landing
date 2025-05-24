@@ -1,6 +1,7 @@
 html{
     scroll-behavior: smooth;
     scroll-padding-top: 100px;
+    overflow: auto !important;
 }
 
 body {
@@ -10,6 +11,7 @@ body {
     /* font-weight: 400; */
     line-height: 1.5;
     color: #312C27;
+    overflow: auto !important;
 }
 
 .body--opened-menu {
